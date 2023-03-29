@@ -1,4 +1,3 @@
-git init
 git add .
-git commit -m "MyDB Users"
+git commit -m "My Blog App"
 git push
